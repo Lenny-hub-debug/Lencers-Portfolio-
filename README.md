@@ -38,6 +38,10 @@ To deploy this portfolio website:
 
 Alternatively, you can download the source code and host it on any Next.js-compatible platform.
 
+##Live Portfolio
+
+You can view the live portfolio here: https://v0-personal-portfolio-website-qc.vercel.app/#about
+
 ## Customization Options
 This portfolio is highly customizable:
 - Update project details in `projects.tsx`
